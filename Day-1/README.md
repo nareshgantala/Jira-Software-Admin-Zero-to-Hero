@@ -57,3 +57,4 @@ We hope this guide has helped you understand the basics of Jira Software. Whethe
 ---
 
 **Note for Students**: If you found this material helpful, make sure to apply these insights to your real-world tasks and explore Jira’s features to enhance your team’s workflow. Happy managing!
+
