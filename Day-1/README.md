@@ -1,7 +1,7 @@
 ## What is Jira Software?
 
 ### Introduction
-Welcome to our comprehensive guide on Jira Software! This material aims to simplify Jira Software and help you and your team manage work more efficiently. Let's dive in!
+Welcome to our comprehensive guide on Jira Software! This material aims to simplify Jira Software and help you and your team manage work more efficiently, especially in Agile environments. Let's dive in!
 
 ### What is Jira Software?
 
@@ -45,6 +45,34 @@ Admins set up and configure Jira for the team. Here’s what admins usually hand
 - Allocate resources based on team capacity.
 - Prioritize tasks across different projects.
 - Create reports to monitor team performance.
+
+### Agile Principles in Jira Software
+
+Jira Software is designed with Agile principles in mind, supporting Agile methodologies and practices.
+
+1. **Early and Continuous Delivery**: Jira enables the early and continuous delivery of valuable software through iterative cycles. This aligns with the principle that our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+   
+2. **Welcome Changing Requirements**: Jira’s flexible structure allows for changes at any stage of development, enabling teams to adapt quickly to evolving requirements. This supports the principle of welcoming changing requirements, even late in development, to harness change for the customer's competitive advantage.
+
+3. **Frequent Delivery of Working Software**: With features like Scrum and Kanban boards, Jira supports the frequent delivery of working software, from a couple of weeks to a couple of months, with a preference for shorter timescales.
+
+4. **Collaboration Between Business and Development**: Jira facilitates daily collaboration between business people and developers through shared boards and communication tools, ensuring continuous alignment and cooperation.
+
+5. **Building Projects Around Motivated Individuals**: Jira provides an environment where motivated individuals can thrive, giving them the tools and support they need while promoting trust in their ability to get the job done.
+
+6. **Face-to-Face Communication**: While face-to-face conversation is the most efficient and effective method of conveying information, Jira helps bridge the gap for distributed teams with features that support communication and collaboration.
+
+7. **Working Software as a Measure of Progress**: Jira emphasizes the importance of working software as the primary measure of progress, with clear tracking of tasks and milestones.
+
+8. **Sustainable Development**: Agile processes in Jira promote sustainable development, enabling teams to maintain a constant pace indefinitely through well-structured sprints and backlogs.
+
+9. **Technical Excellence and Good Design**: Continuous attention to technical excellence and good design is facilitated by Jira’s robust tracking and reporting tools, enhancing agility.
+
+10. **Simplicity**: Jira encourages simplicity by helping teams maximize the amount of work not done through effective prioritization and workflow management.
+
+11. **Self-Organizing Teams**: Jira supports the emergence of the best architectures, requirements, and designs from self-organizing teams by providing the tools they need to manage their own work processes.
+
+12. **Regular Reflection and Adjustment**: Jira’s retrospective features allow teams to reflect on how to become more effective at regular intervals, then tune and adjust their behavior accordingly.
 
 ### Jira Software Projects
 
@@ -91,11 +119,11 @@ Each Jira project can have multiple boards. To see all your boards, navigate to 
 
 ### Summary
 
-In summary, Jira Software is a powerful tool for managing team tasks, enhancing transparency, efficiency, and collaboration. It helps you prioritize, plan, and stay informed about your work and your team's progress.
+In summary, Jira Software is a powerful tool for managing team tasks, enhancing transparency, efficiency, and collaboration. It helps you prioritize, plan, and stay informed about your work and your team's progress. By aligning with Agile principles, Jira Software ensures that teams can adapt, collaborate, and deliver high-quality software efficiently.
 
 ### Conclusion
 
-We hope this guide has helped you understand the basics of Jira Software. Whether you’re updating your tasks as a user or configuring the system as an admin, Jira Software helps keep your team organized and productive. For more tech insights, continue to explore our resources and keep learning!
+We hope this guide has helped you understand the basics of Jira Software and how it supports Agile methodologies. Whether you’re updating your tasks as a user or configuring the system as an admin, Jira Software helps keep your team organized and productive. For more tech insights, continue to explore our resources and keep learning!
 
 ---
 
